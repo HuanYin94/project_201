@@ -1,0 +1,12427 @@
+header: 
+  seq: 1205
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.20634253268
+    y: -0.178037265951
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0211487528984
+    w: 0.999776340114
+---
+header: 
+  seq: 1206
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.20634253268
+    y: -0.178037265951
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0211487528984
+    w: 0.999776340114
+---
+header: 
+  seq: 1207
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.20634253268
+    y: -0.178037265951
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0211487528984
+    w: 0.999776340114
+---
+header: 
+  seq: 1208
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.20634253268
+    y: -0.178037265951
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0211487528984
+    w: 0.999776340114
+---
+header: 
+  seq: 1209
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.20634253268
+    y: -0.178037265951
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0211487528984
+    w: 0.999776340114
+---
+header: 
+  seq: 1210
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.6044342818
+    y: -0.24082414788
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0261245488764
+    w: 0.999658695729
+---
+header: 
+  seq: 1211
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.6044342818
+    y: -0.24082414788
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0261245488764
+    w: 0.999658695729
+---
+header: 
+  seq: 1212
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.6044342818
+    y: -0.24082414788
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0261245488764
+    w: 0.999658695729
+---
+header: 
+  seq: 1213
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.6044342818
+    y: -0.24082414788
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0261245488764
+    w: 0.999658695729
+---
+header: 
+  seq: 1214
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.6044342818
+    y: -0.24082414788
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0261245488764
+    w: 0.999658695729
+---
+header: 
+  seq: 1215
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.6044342818
+    y: -0.24082414788
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0261245488764
+    w: 0.999658695729
+---
+header: 
+  seq: 1216
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.6044342818
+    y: -0.24082414788
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0261245488764
+    w: 0.999658695729
+---
+header: 
+  seq: 1217
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 5.45719312964
+    y: -0.385261492917
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0352327421926
+    w: 0.999379134202
+---
+header: 
+  seq: 1218
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 5.45719312964
+    y: -0.385261492917
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0352327421926
+    w: 0.999379134202
+---
+header: 
+  seq: 1219
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 5.45719312964
+    y: -0.385261492917
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0352327421926
+    w: 0.999379134202
+---
+header: 
+  seq: 1220
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 5.45719312964
+    y: -0.385261492917
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0352327421926
+    w: 0.999379134202
+---
+header: 
+  seq: 1221
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 5.45719312964
+    y: -0.385261492917
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0352327421926
+    w: 0.999379134202
+---
+header: 
+  seq: 1222
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 5.45719312964
+    y: -0.385261492917
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0352327421926
+    w: 0.999379134202
+---
+header: 
+  seq: 1223
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.64177551008
+    y: -0.308218466113
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0331457543102
+    w: 0.999450528526
+---
+header: 
+  seq: 1224
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.64177551008
+    y: -0.308218466113
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0331457543102
+    w: 0.999450528526
+---
+header: 
+  seq: 1225
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.64177551008
+    y: -0.308218466113
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0331457543102
+    w: 0.999450528526
+---
+header: 
+  seq: 1226
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.64177551008
+    y: -0.308218466113
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0331457543102
+    w: 0.999450528526
+---
+header: 
+  seq: 1227
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.64177551008
+    y: -0.308218466113
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0331457543102
+    w: 0.999450528526
+---
+header: 
+  seq: 1228
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.64177551008
+    y: -0.308218466113
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0331457543102
+    w: 0.999450528526
+---
+header: 
+  seq: 1229
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.64177551008
+    y: -0.308218466113
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0331457543102
+    w: 0.999450528526
+---
+header: 
+  seq: 1230
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.58747714512
+    y: -0.112684694131
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.015699476902
+    w: 0.999876755618
+---
+header: 
+  seq: 1231
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.58747714512
+    y: -0.112684694131
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.015699476902
+    w: 0.999876755618
+---
+header: 
+  seq: 1232
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.58747714512
+    y: -0.112684694131
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.015699476902
+    w: 0.999876755618
+---
+header: 
+  seq: 1233
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.58747714512
+    y: -0.112684694131
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.015699476902
+    w: 0.999876755618
+---
+header: 
+  seq: 1234
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.58747714512
+    y: -0.112684694131
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.015699476902
+    w: 0.999876755618
+---
+header: 
+  seq: 1235
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.58747714512
+    y: -0.112684694131
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.015699476902
+    w: 0.999876755618
+---
+header: 
+  seq: 1236
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.58747714512
+    y: -0.112684694131
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.015699476902
+    w: 0.999876755618
+---
+header: 
+  seq: 1237
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.58747714512
+    y: -0.112684694131
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.015699476902
+    w: 0.999876755618
+---
+header: 
+  seq: 1238
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.61629312003
+    y: 0.0239093623728
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00330572905193
+    w: 0.999994536063
+---
+header: 
+  seq: 1239
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.61629312003
+    y: 0.0239093623728
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00330572905193
+    w: 0.999994536063
+---
+header: 
+  seq: 1240
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.61629312003
+    y: 0.0239093623728
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00330572905193
+    w: 0.999994536063
+---
+header: 
+  seq: 1241
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.61629312003
+    y: 0.0239093623728
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00330572905193
+    w: 0.999994536063
+---
+header: 
+  seq: 1242
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.61629312003
+    y: 0.0239093623728
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00330572905193
+    w: 0.999994536063
+---
+header: 
+  seq: 1243
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.61629312003
+    y: 0.0239093623728
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00330572905193
+    w: 0.999994536063
+---
+header: 
+  seq: 1244
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.61629312003
+    y: 0.0239093623728
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.00330572905193
+    w: 0.999994536063
+---
+header: 
+  seq: 1245
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.47792984505
+    y: 0.0876319931272
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0125952998673
+    w: 0.999920676064
+---
+header: 
+  seq: 1246
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.47792984505
+    y: 0.0876319931272
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0125952998673
+    w: 0.999920676064
+---
+header: 
+  seq: 1247
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.47792984505
+    y: 0.0876319931272
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0125952998673
+    w: 0.999920676064
+---
+header: 
+  seq: 1248
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.47792984505
+    y: 0.0876319931272
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0125952998673
+    w: 0.999920676064
+---
+header: 
+  seq: 1249
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.47792984505
+    y: 0.0876319931272
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0125952998673
+    w: 0.999920676064
+---
+header: 
+  seq: 1250
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.47792984505
+    y: 0.0876319931272
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0125952998673
+    w: 0.999920676064
+---
+header: 
+  seq: 1251
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.34279814925
+    y: 0.0857380493424
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0128211311984
+    w: 0.999917805919
+---
+header: 
+  seq: 1252
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.34279814925
+    y: 0.0857380493424
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0128211311984
+    w: 0.999917805919
+---
+header: 
+  seq: 1253
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.34279814925
+    y: 0.0857380493424
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0128211311984
+    w: 0.999917805919
+---
+header: 
+  seq: 1254
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.34279814925
+    y: 0.0857380493424
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0128211311984
+    w: 0.999917805919
+---
+header: 
+  seq: 1255
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.34279814925
+    y: 0.0857380493424
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0128211311984
+    w: 0.999917805919
+---
+header: 
+  seq: 1256
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.34279814925
+    y: 0.0857380493424
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0128211311984
+    w: 0.999917805919
+---
+header: 
+  seq: 1257
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.34279814925
+    y: 0.0857380493424
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0128211311984
+    w: 0.999917805919
+---
+header: 
+  seq: 1258
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.34279814925
+    y: 0.0857380493424
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0128211311984
+    w: 0.999917805919
+---
+header: 
+  seq: 1259
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.34279814925
+    y: 0.0857380493424
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0128211311984
+    w: 0.999917805919
+---
+header: 
+  seq: 1260
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.34279814925
+    y: 0.0857380493424
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0128211311984
+    w: 0.999917805919
+---
+header: 
+  seq: 1261
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.40529083411
+    y: 0.137716813745
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0202086170033
+    w: 0.999795785048
+---
+header: 
+  seq: 1262
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.40529083411
+    y: 0.137716813745
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0202086170033
+    w: 0.999795785048
+---
+header: 
+  seq: 1263
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.40529083411
+    y: 0.137716813745
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0202086170033
+    w: 0.999795785048
+---
+header: 
+  seq: 1264
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.40529083411
+    y: 0.137716813745
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0202086170033
+    w: 0.999795785048
+---
+header: 
+  seq: 1265
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.40529083411
+    y: 0.137716813745
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0202086170033
+    w: 0.999795785048
+---
+header: 
+  seq: 1266
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.40529083411
+    y: 0.137716813745
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0202086170033
+    w: 0.999795785048
+---
+header: 
+  seq: 1267
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.40529083411
+    y: 0.137716813745
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0202086170033
+    w: 0.999795785048
+---
+header: 
+  seq: 1268
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.31710727586
+    y: 0.261102073301
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0392658136912
+    w: 0.999228800563
+---
+header: 
+  seq: 1269
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.31710727586
+    y: 0.261102073301
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0392658136912
+    w: 0.999228800563
+---
+header: 
+  seq: 1270
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.31710727586
+    y: 0.261102073301
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0392658136912
+    w: 0.999228800563
+---
+header: 
+  seq: 1271
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.31710727586
+    y: 0.261102073301
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0392658136912
+    w: 0.999228800563
+---
+header: 
+  seq: 1272
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.31710727586
+    y: 0.261102073301
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0392658136912
+    w: 0.999228800563
+---
+header: 
+  seq: 1273
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.31710727586
+    y: 0.261102073301
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0392658136912
+    w: 0.999228800563
+---
+header: 
+  seq: 1274
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.31710727586
+    y: 0.261102073301
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0392658136912
+    w: 0.999228800563
+---
+header: 
+  seq: 1275
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.35254854342
+    y: 0.405707730221
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0601781805649
+    w: 0.998187650987
+---
+header: 
+  seq: 1276
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.35254854342
+    y: 0.405707730221
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0601781805649
+    w: 0.998187650987
+---
+header: 
+  seq: 1277
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.35254854342
+    y: 0.405707730221
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0601781805649
+    w: 0.998187650987
+---
+header: 
+  seq: 1278
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.35254854342
+    y: 0.405707730221
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0601781805649
+    w: 0.998187650987
+---
+header: 
+  seq: 1279
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.35254854342
+    y: 0.405707730221
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0601781805649
+    w: 0.998187650987
+---
+header: 
+  seq: 1280
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.35254854342
+    y: 0.405707730221
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0601781805649
+    w: 0.998187650987
+---
+header: 
+  seq: 1281
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.35254854342
+    y: 0.405707730221
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0601781805649
+    w: 0.998187650987
+---
+header: 
+  seq: 1282
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.35254854342
+    y: 0.405707730221
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0601781805649
+    w: 0.998187650987
+---
+header: 
+  seq: 1283
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.61859738559
+    y: 0.508969215438
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0698116916738
+    w: 0.99756018751
+---
+header: 
+  seq: 1284
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.61859738559
+    y: 0.508969215438
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0698116916738
+    w: 0.99756018751
+---
+header: 
+  seq: 1285
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.61859738559
+    y: 0.508969215438
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0698116916738
+    w: 0.99756018751
+---
+header: 
+  seq: 1286
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.61859738559
+    y: 0.508969215438
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0698116916738
+    w: 0.99756018751
+---
+header: 
+  seq: 1287
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.61859738559
+    y: 0.508969215438
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0698116916738
+    w: 0.99756018751
+---
+header: 
+  seq: 1288
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.61859738559
+    y: 0.508969215438
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0698116916738
+    w: 0.99756018751
+---
+header: 
+  seq: 1289
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.61859738559
+    y: 0.508969215438
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0698116916738
+    w: 0.99756018751
+---
+header: 
+  seq: 1290
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.07279100604
+    y: 0.617561635318
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0751713925608
+    w: 0.997170628198
+---
+header: 
+  seq: 1291
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.07279100604
+    y: 0.617561635318
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0751713925608
+    w: 0.997170628198
+---
+header: 
+  seq: 1292
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.07279100604
+    y: 0.617561635318
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0751713925608
+    w: 0.997170628198
+---
+header: 
+  seq: 1293
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.07279100604
+    y: 0.617561635318
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0751713925608
+    w: 0.997170628198
+---
+header: 
+  seq: 1294
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.07279100604
+    y: 0.617561635318
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0751713925608
+    w: 0.997170628198
+---
+header: 
+  seq: 1295
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.07279100604
+    y: 0.617561635318
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0751713925608
+    w: 0.997170628198
+---
+header: 
+  seq: 1296
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.07279100604
+    y: 0.617561635318
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0751713925608
+    w: 0.997170628198
+---
+header: 
+  seq: 1297
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.09075408064
+    y: 0.695982696436
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0841612764376
+    w: 0.996452146141
+---
+header: 
+  seq: 1298
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.09075408064
+    y: 0.695982696436
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0841612764376
+    w: 0.996452146141
+---
+header: 
+  seq: 1299
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.09075408064
+    y: 0.695982696436
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0841612764376
+    w: 0.996452146141
+---
+header: 
+  seq: 1300
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.09075408064
+    y: 0.695982696436
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0841612764376
+    w: 0.996452146141
+---
+header: 
+  seq: 1301
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.09075408064
+    y: 0.695982696436
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0841612764376
+    w: 0.996452146141
+---
+header: 
+  seq: 1302
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.09075408064
+    y: 0.695982696436
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0841612764376
+    w: 0.996452146141
+---
+header: 
+  seq: 1303
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.09075408064
+    y: 0.695982696436
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0841612764376
+    w: 0.996452146141
+---
+header: 
+  seq: 1304
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.68287122121
+    y: 0.692380180704
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.092781877057
+    w: 0.995686458324
+---
+header: 
+  seq: 1305
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.68287122121
+    y: 0.692380180704
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.092781877057
+    w: 0.995686458324
+---
+header: 
+  seq: 1306
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.68287122121
+    y: 0.692380180704
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.092781877057
+    w: 0.995686458324
+---
+header: 
+  seq: 1307
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.68287122121
+    y: 0.692380180704
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.092781877057
+    w: 0.995686458324
+---
+header: 
+  seq: 1308
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.68287122121
+    y: 0.692380180704
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.092781877057
+    w: 0.995686458324
+---
+header: 
+  seq: 1309
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.68287122121
+    y: 0.692380180704
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.092781877057
+    w: 0.995686458324
+---
+header: 
+  seq: 1310
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.68287122121
+    y: 0.692380180704
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.092781877057
+    w: 0.995686458324
+---
+header: 
+  seq: 1311
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.68287122121
+    y: 0.692380180704
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.092781877057
+    w: 0.995686458324
+---
+header: 
+  seq: 1312
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.68287122121
+    y: 0.692380180704
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.092781877057
+    w: 0.995686458324
+---
+header: 
+  seq: 1313
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.51030594468
+    y: 0.687414301541
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0965395628157
+    w: 0.995329147976
+---
+header: 
+  seq: 1314
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.51030594468
+    y: 0.687414301541
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0965395628157
+    w: 0.995329147976
+---
+header: 
+  seq: 1315
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.51030594468
+    y: 0.687414301541
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0965395628157
+    w: 0.995329147976
+---
+header: 
+  seq: 1316
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.51030594468
+    y: 0.687414301541
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0965395628157
+    w: 0.995329147976
+---
+header: 
+  seq: 1317
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.51030594468
+    y: 0.687414301541
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0965395628157
+    w: 0.995329147976
+---
+header: 
+  seq: 1318
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.51030594468
+    y: 0.687414301541
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0965395628157
+    w: 0.995329147976
+---
+header: 
+  seq: 1319
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.51030594468
+    y: 0.687414301541
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0965395628157
+    w: 0.995329147976
+---
+header: 
+  seq: 1320
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.47946453643
+    y: 0.700326764228
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0991471090693
+    w: 0.995072786666
+---
+header: 
+  seq: 1321
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.47946453643
+    y: 0.700326764228
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0991471090693
+    w: 0.995072786666
+---
+header: 
+  seq: 1322
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.47946453643
+    y: 0.700326764228
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0991471090693
+    w: 0.995072786666
+---
+header: 
+  seq: 1323
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.47946453643
+    y: 0.700326764228
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0991471090693
+    w: 0.995072786666
+---
+header: 
+  seq: 1324
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.47946453643
+    y: 0.700326764228
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0991471090693
+    w: 0.995072786666
+---
+header: 
+  seq: 1325
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.47946453643
+    y: 0.700326764228
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0991471090693
+    w: 0.995072786666
+---
+header: 
+  seq: 1326
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.47946453643
+    y: 0.700326764228
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0991471090693
+    w: 0.995072786666
+---
+header: 
+  seq: 1327
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.47946453643
+    y: 0.700326764228
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0991471090693
+    w: 0.995072786666
+---
+header: 
+  seq: 1328
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.53644019996
+    y: 0.798052421504
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.110746238115
+    w: 0.993848716226
+---
+header: 
+  seq: 1329
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.53644019996
+    y: 0.798052421504
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.110746238115
+    w: 0.993848716226
+---
+header: 
+  seq: 1330
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.53644019996
+    y: 0.798052421504
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.110746238115
+    w: 0.993848716226
+---
+header: 
+  seq: 1331
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.53644019996
+    y: 0.798052421504
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.110746238115
+    w: 0.993848716226
+---
+header: 
+  seq: 1332
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.53644019996
+    y: 0.798052421504
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.110746238115
+    w: 0.993848716226
+---
+header: 
+  seq: 1333
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.53644019996
+    y: 0.798052421504
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.110746238115
+    w: 0.993848716226
+---
+header: 
+  seq: 1334
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.53644019996
+    y: 0.798052421504
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.110746238115
+    w: 0.993848716226
+---
+header: 
+  seq: 1335
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.0300503783
+    y: 0.991394503337
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.120313292341
+    w: 0.992735972797
+---
+header: 
+  seq: 1336
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.0300503783
+    y: 0.991394503337
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.120313292341
+    w: 0.992735972797
+---
+header: 
+  seq: 1337
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.0300503783
+    y: 0.991394503337
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.120313292341
+    w: 0.992735972797
+---
+header: 
+  seq: 1338
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.0300503783
+    y: 0.991394503337
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.120313292341
+    w: 0.992735972797
+---
+header: 
+  seq: 1339
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.0300503783
+    y: 0.991394503337
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.120313292341
+    w: 0.992735972797
+---
+header: 
+  seq: 1340
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.0300503783
+    y: 0.991394503337
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.120313292341
+    w: 0.992735972797
+---
+header: 
+  seq: 1341
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.0300503783
+    y: 0.991394503337
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.120313292341
+    w: 0.992735972797
+---
+header: 
+  seq: 1342
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.09162849907
+    y: 0.948615167639
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.113662839271
+    w: 0.993519380268
+---
+header: 
+  seq: 1343
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.09162849907
+    y: 0.948615167639
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.113662839271
+    w: 0.993519380268
+---
+header: 
+  seq: 1344
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.09162849907
+    y: 0.948615167639
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.113662839271
+    w: 0.993519380268
+---
+header: 
+  seq: 1345
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.09162849907
+    y: 0.948615167639
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.113662839271
+    w: 0.993519380268
+---
+header: 
+  seq: 1346
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.09162849907
+    y: 0.948615167639
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.113662839271
+    w: 0.993519380268
+---
+header: 
+  seq: 1347
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.09162849907
+    y: 0.948615167639
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.113662839271
+    w: 0.993519380268
+---
+header: 
+  seq: 1348
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.09162849907
+    y: 0.948615167639
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.113662839271
+    w: 0.993519380268
+---
+header: 
+  seq: 1349
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.09162849907
+    y: 0.948615167639
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.113662839271
+    w: 0.993519380268
+---
+header: 
+  seq: 1350
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.84880087989
+    y: 0.793814236308
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.101523611302
+    w: 0.994833129901
+---
+header: 
+  seq: 1351
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.84880087989
+    y: 0.793814236308
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.101523611302
+    w: 0.994833129901
+---
+header: 
+  seq: 1352
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.84880087989
+    y: 0.793814236308
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.101523611302
+    w: 0.994833129901
+---
+header: 
+  seq: 1353
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.84880087989
+    y: 0.793814236308
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.101523611302
+    w: 0.994833129901
+---
+header: 
+  seq: 1354
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.84880087989
+    y: 0.793814236308
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.101523611302
+    w: 0.994833129901
+---
+header: 
+  seq: 1355
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.84880087989
+    y: 0.793814236308
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.101523611302
+    w: 0.994833129901
+---
+header: 
+  seq: 1356
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.84880087989
+    y: 0.793814236308
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.101523611302
+    w: 0.994833129901
+---
+header: 
+  seq: 1357
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.82259026141
+    y: 0.741258977155
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0956227527095
+    w: 0.995417645596
+---
+header: 
+  seq: 1358
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.82259026141
+    y: 0.741258977155
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0956227527095
+    w: 0.995417645596
+---
+header: 
+  seq: 1359
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.82259026141
+    y: 0.741258977155
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0956227527095
+    w: 0.995417645596
+---
+header: 
+  seq: 1360
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.82259026141
+    y: 0.741258977155
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0956227527095
+    w: 0.995417645596
+---
+header: 
+  seq: 1361
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.82259026141
+    y: 0.741258977155
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0956227527095
+    w: 0.995417645596
+---
+header: 
+  seq: 1362
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.82259026141
+    y: 0.741258977155
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0956227527095
+    w: 0.995417645596
+---
+header: 
+  seq: 1363
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.57994030883
+    y: 0.607293844183
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0839203258732
+    w: 0.996472467711
+---
+header: 
+  seq: 1364
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.57994030883
+    y: 0.607293844183
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0839203258732
+    w: 0.996472467711
+---
+header: 
+  seq: 1365
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.57994030883
+    y: 0.607293844183
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0839203258732
+    w: 0.996472467711
+---
+header: 
+  seq: 1366
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.57994030883
+    y: 0.607293844183
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0839203258732
+    w: 0.996472467711
+---
+header: 
+  seq: 1367
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.57994030883
+    y: 0.607293844183
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0839203258732
+    w: 0.996472467711
+---
+header: 
+  seq: 1368
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.57994030883
+    y: 0.607293844183
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0839203258732
+    w: 0.996472467711
+---
+header: 
+  seq: 1369
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.57994030883
+    y: 0.607293844183
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0839203258732
+    w: 0.996472467711
+---
+header: 
+  seq: 1370
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.48882216462
+    y: 0.524107450684
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.074485825425
+    w: 0.997222072465
+---
+header: 
+  seq: 1371
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.48882216462
+    y: 0.524107450684
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.074485825425
+    w: 0.997222072465
+---
+header: 
+  seq: 1372
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.48882216462
+    y: 0.524107450684
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.074485825425
+    w: 0.997222072465
+---
+header: 
+  seq: 1373
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.48882216462
+    y: 0.524107450684
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.074485825425
+    w: 0.997222072465
+---
+header: 
+  seq: 1374
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.48882216462
+    y: 0.524107450684
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.074485825425
+    w: 0.997222072465
+---
+header: 
+  seq: 1375
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.48882216462
+    y: 0.524107450684
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.074485825425
+    w: 0.997222072465
+---
+header: 
+  seq: 1376
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.44178140609
+    y: 0.576258719105
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0828507432142
+    w: 0.996561967139
+---
+header: 
+  seq: 1377
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.44178140609
+    y: 0.576258719105
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0828507432142
+    w: 0.996561967139
+---
+header: 
+  seq: 1378
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.44178140609
+    y: 0.576258719105
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0828507432142
+    w: 0.996561967139
+---
+header: 
+  seq: 1379
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.44178140609
+    y: 0.576258719105
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0828507432142
+    w: 0.996561967139
+---
+header: 
+  seq: 1380
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.44178140609
+    y: 0.576258719105
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0828507432142
+    w: 0.996561967139
+---
+header: 
+  seq: 1381
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.44178140609
+    y: 0.576258719105
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0828507432142
+    w: 0.996561967139
+---
+header: 
+  seq: 1382
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.44178140609
+    y: 0.576258719105
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0828507432142
+    w: 0.996561967139
+---
+header: 
+  seq: 1383
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.83325176779
+    y: 0.750761710396
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0965527847999
+    w: 0.995327865453
+---
+header: 
+  seq: 1384
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.83325176779
+    y: 0.750761710396
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0965527847999
+    w: 0.995327865453
+---
+header: 
+  seq: 1385
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.83325176779
+    y: 0.750761710396
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0965527847999
+    w: 0.995327865453
+---
+header: 
+  seq: 1386
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.83325176779
+    y: 0.750761710396
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0965527847999
+    w: 0.995327865453
+---
+header: 
+  seq: 1387
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.83325176779
+    y: 0.750761710396
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0965527847999
+    w: 0.995327865453
+---
+header: 
+  seq: 1388
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.83325176779
+    y: 0.750761710396
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0965527847999
+    w: 0.995327865453
+---
+header: 
+  seq: 1389
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.83325176779
+    y: 0.750761710396
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0965527847999
+    w: 0.995327865453
+---
+header: 
+  seq: 1390
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.72552600498
+    y: 0.825777579796
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.108847590456
+    w: 0.994058450018
+---
+header: 
+  seq: 1391
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.72552600498
+    y: 0.825777579796
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.108847590456
+    w: 0.994058450018
+---
+header: 
+  seq: 1392
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.72552600498
+    y: 0.825777579796
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.108847590456
+    w: 0.994058450018
+---
+header: 
+  seq: 1393
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.72552600498
+    y: 0.825777579796
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.108847590456
+    w: 0.994058450018
+---
+header: 
+  seq: 1394
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.72552600498
+    y: 0.825777579796
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.108847590456
+    w: 0.994058450018
+---
+header: 
+  seq: 1395
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.72552600498
+    y: 0.825777579796
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.108847590456
+    w: 0.994058450018
+---
+header: 
+  seq: 1396
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.72552600498
+    y: 0.825777579796
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.108847590456
+    w: 0.994058450018
+---
+header: 
+  seq: 1397
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.51135733554
+    y: 0.856050810134
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.119280345416
+    w: 0.992860614184
+---
+header: 
+  seq: 1398
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.51135733554
+    y: 0.856050810134
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.119280345416
+    w: 0.992860614184
+---
+header: 
+  seq: 1399
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.51135733554
+    y: 0.856050810134
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.119280345416
+    w: 0.992860614184
+---
+header: 
+  seq: 1400
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.51135733554
+    y: 0.856050810134
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.119280345416
+    w: 0.992860614184
+---
+header: 
+  seq: 1401
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.51135733554
+    y: 0.856050810134
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.119280345416
+    w: 0.992860614184
+---
+header: 
+  seq: 1402
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.51135733554
+    y: 0.856050810134
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.119280345416
+    w: 0.992860614184
+---
+header: 
+  seq: 1403
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.51135733554
+    y: 0.856050810134
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.119280345416
+    w: 0.992860614184
+---
+header: 
+  seq: 1404
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.51135733554
+    y: 0.856050810134
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.119280345416
+    w: 0.992860614184
+---
+header: 
+  seq: 1405
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.76158495808
+    y: 0.875041588233
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.114031810124
+    w: 0.993477099021
+---
+header: 
+  seq: 1406
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.76158495808
+    y: 0.875041588233
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.114031810124
+    w: 0.993477099021
+---
+header: 
+  seq: 1407
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.76158495808
+    y: 0.875041588233
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.114031810124
+    w: 0.993477099021
+---
+header: 
+  seq: 1408
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.76158495808
+    y: 0.875041588233
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.114031810124
+    w: 0.993477099021
+---
+header: 
+  seq: 1409
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.76158495808
+    y: 0.875041588233
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.114031810124
+    w: 0.993477099021
+---
+header: 
+  seq: 1410
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.76158495808
+    y: 0.875041588233
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.114031810124
+    w: 0.993477099021
+---
+header: 
+  seq: 1411
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.78397187914
+    y: 0.820703897156
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.106587890525
+    w: 0.994303284513
+---
+header: 
+  seq: 1412
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.78397187914
+    y: 0.820703897156
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.106587890525
+    w: 0.994303284513
+---
+header: 
+  seq: 1413
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.78397187914
+    y: 0.820703897156
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.106587890525
+    w: 0.994303284513
+---
+header: 
+  seq: 1414
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.78397187914
+    y: 0.820703897156
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.106587890525
+    w: 0.994303284513
+---
+header: 
+  seq: 1415
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.78397187914
+    y: 0.820703897156
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.106587890525
+    w: 0.994303284513
+---
+header: 
+  seq: 1416
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.72061840203
+    y: 0.861687238177
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.113547295342
+    w: 0.993532592178
+---
+header: 
+  seq: 1417
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.72061840203
+    y: 0.861687238177
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.113547295342
+    w: 0.993532592178
+---
+header: 
+  seq: 1418
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.72061840203
+    y: 0.861687238177
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.113547295342
+    w: 0.993532592178
+---
+header: 
+  seq: 1419
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.72061840203
+    y: 0.861687238177
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.113547295342
+    w: 0.993532592178
+---
+header: 
+  seq: 1420
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.72061840203
+    y: 0.861687238177
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.113547295342
+    w: 0.993532592178
+---
+header: 
+  seq: 1421
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.50215819142
+    y: 0.773546884523
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.108479530017
+    w: 0.994098683013
+---
+header: 
+  seq: 1422
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.50215819142
+    y: 0.773546884523
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.108479530017
+    w: 0.994098683013
+---
+header: 
+  seq: 1423
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.50215819142
+    y: 0.773546884523
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.108479530017
+    w: 0.994098683013
+---
+header: 
+  seq: 1424
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.50215819142
+    y: 0.773546884523
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.108479530017
+    w: 0.994098683013
+---
+header: 
+  seq: 1425
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.50215819142
+    y: 0.773546884523
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.108479530017
+    w: 0.994098683013
+---
+header: 
+  seq: 1426
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.50215819142
+    y: 0.773546884523
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.108479530017
+    w: 0.994098683013
+---
+header: 
+  seq: 1427
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.73010293159
+    y: 0.689963280177
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0913247519306
+    w: 0.995821163505
+---
+header: 
+  seq: 1428
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.73010293159
+    y: 0.689963280177
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0913247519306
+    w: 0.995821163505
+---
+header: 
+  seq: 1429
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.73010293159
+    y: 0.689963280177
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0913247519306
+    w: 0.995821163505
+---
+header: 
+  seq: 1430
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.73010293159
+    y: 0.689963280177
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0913247519306
+    w: 0.995821163505
+---
+header: 
+  seq: 1431
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.73010293159
+    y: 0.689963280177
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0913247519306
+    w: 0.995821163505
+---
+header: 
+  seq: 1432
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.24001345297
+    y: 0.842931584511
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0979652630102
+    w: 0.995189834777
+---
+header: 
+  seq: 1433
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.24001345297
+    y: 0.842931584511
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0979652630102
+    w: 0.995189834777
+---
+header: 
+  seq: 1434
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.24001345297
+    y: 0.842931584511
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0979652630102
+    w: 0.995189834777
+---
+header: 
+  seq: 1435
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.24001345297
+    y: 0.842931584511
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0979652630102
+    w: 0.995189834777
+---
+header: 
+  seq: 1436
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.24001345297
+    y: 0.842931584511
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0979652630102
+    w: 0.995189834777
+---
+header: 
+  seq: 1437
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.12943501295
+    y: 0.920875417141
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.10948638719
+    w: 0.993988295213
+---
+header: 
+  seq: 1438
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.12943501295
+    y: 0.920875417141
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.10948638719
+    w: 0.993988295213
+---
+header: 
+  seq: 1439
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.12943501295
+    y: 0.920875417141
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.10948638719
+    w: 0.993988295213
+---
+header: 
+  seq: 1440
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.12943501295
+    y: 0.920875417141
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.10948638719
+    w: 0.993988295213
+---
+header: 
+  seq: 1441
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.12943501295
+    y: 0.920875417141
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.10948638719
+    w: 0.993988295213
+---
+header: 
+  seq: 1442
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.56208785392
+    y: 0.800314604393
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.110278124339
+    w: 0.993900767327
+---
+header: 
+  seq: 1443
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.56208785392
+    y: 0.800314604393
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.110278124339
+    w: 0.993900767327
+---
+header: 
+  seq: 1444
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.56208785392
+    y: 0.800314604393
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.110278124339
+    w: 0.993900767327
+---
+header: 
+  seq: 1445
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.56208785392
+    y: 0.800314604393
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.110278124339
+    w: 0.993900767327
+---
+header: 
+  seq: 1446
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.56208785392
+    y: 0.800314604393
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.110278124339
+    w: 0.993900767327
+---
+header: 
+  seq: 1447
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.56208785392
+    y: 0.800314604393
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.110278124339
+    w: 0.993900767327
+---
+header: 
+  seq: 1448
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.42690742136
+    y: 0.742745285151
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.10651652266
+    w: 0.994310932455
+---
+header: 
+  seq: 1449
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.42690742136
+    y: 0.742745285151
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.10651652266
+    w: 0.994310932455
+---
+header: 
+  seq: 1450
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.42690742136
+    y: 0.742745285151
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.10651652266
+    w: 0.994310932455
+---
+header: 
+  seq: 1451
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.42690742136
+    y: 0.742745285151
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.10651652266
+    w: 0.994310932455
+---
+header: 
+  seq: 1452
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.42690742136
+    y: 0.742745285151
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.10651652266
+    w: 0.994310932455
+---
+header: 
+  seq: 1453
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.42690742136
+    y: 0.742745285151
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.10651652266
+    w: 0.994310932455
+---
+header: 
+  seq: 1454
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.57187942725
+    y: 0.763692927089
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.105123222322
+    w: 0.994459203853
+---
+header: 
+  seq: 1455
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.57187942725
+    y: 0.763692927089
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.105123222322
+    w: 0.994459203853
+---
+header: 
+  seq: 1456
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.57187942725
+    y: 0.763692927089
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.105123222322
+    w: 0.994459203853
+---
+header: 
+  seq: 1457
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.57187942725
+    y: 0.763692927089
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.105123222322
+    w: 0.994459203853
+---
+header: 
+  seq: 1458
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.57187942725
+    y: 0.763692927089
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.105123222322
+    w: 0.994459203853
+---
+header: 
+  seq: 1459
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.66345404953
+    y: 0.739470529289
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.099422661701
+    w: 0.995045292607
+---
+header: 
+  seq: 1460
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.66345404953
+    y: 0.739470529289
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.099422661701
+    w: 0.995045292607
+---
+header: 
+  seq: 1461
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.66345404953
+    y: 0.739470529289
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.099422661701
+    w: 0.995045292607
+---
+header: 
+  seq: 1462
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.66345404953
+    y: 0.739470529289
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.099422661701
+    w: 0.995045292607
+---
+header: 
+  seq: 1463
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.66345404953
+    y: 0.739470529289
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.099422661701
+    w: 0.995045292607
+---
+header: 
+  seq: 1464
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.79816575506
+    y: 0.649652864278
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.084601006216
+    w: 0.996414908433
+---
+header: 
+  seq: 1465
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.79816575506
+    y: 0.649652864278
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.084601006216
+    w: 0.996414908433
+---
+header: 
+  seq: 1466
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.79816575506
+    y: 0.649652864278
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.084601006216
+    w: 0.996414908433
+---
+header: 
+  seq: 1467
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.79816575506
+    y: 0.649652864278
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.084601006216
+    w: 0.996414908433
+---
+header: 
+  seq: 1468
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.79816575506
+    y: 0.649652864278
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.084601006216
+    w: 0.996414908433
+---
+header: 
+  seq: 1469
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.79816575506
+    y: 0.649652864278
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.084601006216
+    w: 0.996414908433
+---
+header: 
+  seq: 1470
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.6537057248
+    y: 0.551664400491
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0748577665673
+    w: 0.997194221195
+---
+header: 
+  seq: 1471
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.6537057248
+    y: 0.551664400491
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0748577665673
+    w: 0.997194221195
+---
+header: 
+  seq: 1472
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.6537057248
+    y: 0.551664400491
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0748577665673
+    w: 0.997194221195
+---
+header: 
+  seq: 1473
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.6537057248
+    y: 0.551664400491
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0748577665673
+    w: 0.997194221195
+---
+header: 
+  seq: 1474
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.6537057248
+    y: 0.551664400491
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0748577665673
+    w: 0.997194221195
+---
+header: 
+  seq: 1475
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.64827541999
+    y: 0.587994978208
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0798132679906
+    w: 0.996809832542
+---
+header: 
+  seq: 1476
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.64827541999
+    y: 0.587994978208
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0798132679906
+    w: 0.996809832542
+---
+header: 
+  seq: 1477
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.64827541999
+    y: 0.587994978208
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0798132679906
+    w: 0.996809832542
+---
+header: 
+  seq: 1478
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.64827541999
+    y: 0.587994978208
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0798132679906
+    w: 0.996809832542
+---
+header: 
+  seq: 1479
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.64827541999
+    y: 0.587994978208
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0798132679906
+    w: 0.996809832542
+---
+header: 
+  seq: 1480
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.64827541999
+    y: 0.587994978208
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0798132679906
+    w: 0.996809832542
+---
+header: 
+  seq: 1481
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.62634319321
+    y: 0.655424689461
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0892856762089
+    w: 0.996006058227
+---
+header: 
+  seq: 1482
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.62634319321
+    y: 0.655424689461
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0892856762089
+    w: 0.996006058227
+---
+header: 
+  seq: 1483
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.62634319321
+    y: 0.655424689461
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0892856762089
+    w: 0.996006058227
+---
+header: 
+  seq: 1484
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.62634319321
+    y: 0.655424689461
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0892856762089
+    w: 0.996006058227
+---
+header: 
+  seq: 1485
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.62634319321
+    y: 0.655424689461
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0892856762089
+    w: 0.996006058227
+---
+header: 
+  seq: 1486
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.62634319321
+    y: 0.655424689461
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0892856762089
+    w: 0.996006058227
+---
+header: 
+  seq: 1487
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.62634319321
+    y: 0.655424689461
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0892856762089
+    w: 0.996006058227
+---
+header: 
+  seq: 1488
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.62634319321
+    y: 0.655424689461
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0892856762089
+    w: 0.996006058227
+---
+header: 
+  seq: 1489
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.62634319321
+    y: 0.655424689461
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0892856762089
+    w: 0.996006058227
+---
+header: 
+  seq: 1490
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.44859376655
+    y: 0.699129903647
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0998424704951
+    w: 0.995003256822
+---
+header: 
+  seq: 1491
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.44859376655
+    y: 0.699129903647
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0998424704951
+    w: 0.995003256822
+---
+header: 
+  seq: 1492
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.44859376655
+    y: 0.699129903647
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0998424704951
+    w: 0.995003256822
+---
+header: 
+  seq: 1493
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.44859376655
+    y: 0.699129903647
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0998424704951
+    w: 0.995003256822
+---
+header: 
+  seq: 1494
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.44859376655
+    y: 0.699129903647
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0998424704951
+    w: 0.995003256822
+---
+header: 
+  seq: 1495
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.44859376655
+    y: 0.699129903647
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0998424704951
+    w: 0.995003256822
+---
+header: 
+  seq: 1496
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.69531794399
+    y: 0.6889665488
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0920329582849
+    w: 0.995755961363
+---
+header: 
+  seq: 1497
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.69531794399
+    y: 0.6889665488
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0920329582849
+    w: 0.995755961363
+---
+header: 
+  seq: 1498
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.69531794399
+    y: 0.6889665488
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0920329582849
+    w: 0.995755961363
+---
+header: 
+  seq: 1499
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.69531794399
+    y: 0.6889665488
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0920329582849
+    w: 0.995755961363
+---
+header: 
+  seq: 1500
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.69531794399
+    y: 0.6889665488
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0920329582849
+    w: 0.995755961363
+---
+header: 
+  seq: 1501
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.51218654
+    y: 0.55530369521
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0783245157482
+    w: 0.996927916267
+---
+header: 
+  seq: 1502
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.51218654
+    y: 0.55530369521
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0783245157482
+    w: 0.996927916267
+---
+header: 
+  seq: 1503
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.51218654
+    y: 0.55530369521
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0783245157482
+    w: 0.996927916267
+---
+header: 
+  seq: 1504
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.51218654
+    y: 0.55530369521
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0783245157482
+    w: 0.996927916267
+---
+header: 
+  seq: 1505
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.51218654
+    y: 0.55530369521
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0783245157482
+    w: 0.996927916267
+---
+header: 
+  seq: 1506
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.16520993049
+    y: 0.476255733441
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0746033394731
+    w: 0.997213287988
+---
+header: 
+  seq: 1507
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.16520993049
+    y: 0.476255733441
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0746033394731
+    w: 0.997213287988
+---
+header: 
+  seq: 1508
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.16520993049
+    y: 0.476255733441
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0746033394731
+    w: 0.997213287988
+---
+header: 
+  seq: 1509
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.16520993049
+    y: 0.476255733441
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0746033394731
+    w: 0.997213287988
+---
+header: 
+  seq: 1510
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.16520993049
+    y: 0.476255733441
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0746033394731
+    w: 0.997213287988
+---
+header: 
+  seq: 1511
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.16520993049
+    y: 0.476255733441
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0746033394731
+    w: 0.997213287988
+---
+header: 
+  seq: 1512
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.16520993049
+    y: 0.476255733441
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0746033394731
+    w: 0.997213287988
+---
+header: 
+  seq: 1513
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.28843455382
+    y: 0.495365209296
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0746876106533
+    w: 0.997206979927
+---
+header: 
+  seq: 1514
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.28843455382
+    y: 0.495365209296
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0746876106533
+    w: 0.997206979927
+---
+header: 
+  seq: 1515
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.28843455382
+    y: 0.495365209296
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0746876106533
+    w: 0.997206979927
+---
+header: 
+  seq: 1516
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.28843455382
+    y: 0.495365209296
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0746876106533
+    w: 0.997206979927
+---
+header: 
+  seq: 1517
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.28843455382
+    y: 0.495365209296
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0746876106533
+    w: 0.997206979927
+---
+header: 
+  seq: 1518
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.28843455382
+    y: 0.495365209296
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0746876106533
+    w: 0.997206979927
+---
+header: 
+  seq: 1519
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.30650982482
+    y: 0.501443464404
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0751822795159
+    w: 0.997169807428
+---
+header: 
+  seq: 1520
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.30650982482
+    y: 0.501443464404
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0751822795159
+    w: 0.997169807428
+---
+header: 
+  seq: 1521
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.30650982482
+    y: 0.501443464404
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0751822795159
+    w: 0.997169807428
+---
+header: 
+  seq: 1522
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.30650982482
+    y: 0.501443464404
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0751822795159
+    w: 0.997169807428
+---
+header: 
+  seq: 1523
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.30650982482
+    y: 0.501443464404
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0751822795159
+    w: 0.997169807428
+---
+header: 
+  seq: 1524
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.30650982482
+    y: 0.501443464404
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0751822795159
+    w: 0.997169807428
+---
+header: 
+  seq: 1525
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.28095788742
+    y: 0.462253197541
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0699271056066
+    w: 0.997552103853
+---
+header: 
+  seq: 1526
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.28095788742
+    y: 0.462253197541
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0699271056066
+    w: 0.997552103853
+---
+header: 
+  seq: 1527
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.28095788742
+    y: 0.462253197541
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0699271056066
+    w: 0.997552103853
+---
+header: 
+  seq: 1528
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.28095788742
+    y: 0.462253197541
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0699271056066
+    w: 0.997552103853
+---
+header: 
+  seq: 1529
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.28095788742
+    y: 0.462253197541
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0699271056066
+    w: 0.997552103853
+---
+header: 
+  seq: 1530
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.3149578871
+    y: 0.3928432153
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0589438731239
+    w: 0.998261298369
+---
+header: 
+  seq: 1531
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.3149578871
+    y: 0.3928432153
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0589438731239
+    w: 0.998261298369
+---
+header: 
+  seq: 1532
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.3149578871
+    y: 0.3928432153
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0589438731239
+    w: 0.998261298369
+---
+header: 
+  seq: 1533
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.3149578871
+    y: 0.3928432153
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0589438731239
+    w: 0.998261298369
+---
+header: 
+  seq: 1534
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.3149578871
+    y: 0.3928432153
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0589438731239
+    w: 0.998261298369
+---
+header: 
+  seq: 1535
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.4572751558
+    y: 0.371851328539
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0535465246894
+    w: 0.998565355745
+---
+header: 
+  seq: 1536
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.4572751558
+    y: 0.371851328539
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0535465246894
+    w: 0.998565355745
+---
+header: 
+  seq: 1537
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.4572751558
+    y: 0.371851328539
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0535465246894
+    w: 0.998565355745
+---
+header: 
+  seq: 1538
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.4572751558
+    y: 0.371851328539
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0535465246894
+    w: 0.998565355745
+---
+header: 
+  seq: 1539
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.4572751558
+    y: 0.371851328539
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0535465246894
+    w: 0.998565355745
+---
+header: 
+  seq: 1540
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.49550801296
+    y: 0.403623951883
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.057448453998
+    w: 0.998348473797
+---
+header: 
+  seq: 1541
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.49550801296
+    y: 0.403623951883
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.057448453998
+    w: 0.998348473797
+---
+header: 
+  seq: 1542
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.49550801296
+    y: 0.403623951883
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.057448453998
+    w: 0.998348473797
+---
+header: 
+  seq: 1543
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.49550801296
+    y: 0.403623951883
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.057448453998
+    w: 0.998348473797
+---
+header: 
+  seq: 1544
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.49550801296
+    y: 0.403623951883
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.057448453998
+    w: 0.998348473797
+---
+header: 
+  seq: 1545
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.49550801296
+    y: 0.403623951883
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.057448453998
+    w: 0.998348473797
+---
+header: 
+  seq: 1546
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.40690974274
+    y: 0.460359021357
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0671053273514
+    w: 0.99774589703
+---
+header: 
+  seq: 1547
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.40690974274
+    y: 0.460359021357
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0671053273514
+    w: 0.99774589703
+---
+header: 
+  seq: 1548
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.40690974274
+    y: 0.460359021357
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0671053273514
+    w: 0.99774589703
+---
+header: 
+  seq: 1549
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.40690974274
+    y: 0.460359021357
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0671053273514
+    w: 0.99774589703
+---
+header: 
+  seq: 1550
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.40690974274
+    y: 0.460359021357
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0671053273514
+    w: 0.99774589703
+---
+header: 
+  seq: 1551
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.01240698194
+    y: 0.411832448331
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0678826513242
+    w: 0.997693312421
+---
+header: 
+  seq: 1552
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.01240698194
+    y: 0.411832448331
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0678826513242
+    w: 0.997693312421
+---
+header: 
+  seq: 1553
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.01240698194
+    y: 0.411832448331
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0678826513242
+    w: 0.997693312421
+---
+header: 
+  seq: 1554
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.01240698194
+    y: 0.411832448331
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0678826513242
+    w: 0.997693312421
+---
+header: 
+  seq: 1555
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.01240698194
+    y: 0.411832448331
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0678826513242
+    w: 0.997693312421
+---
+header: 
+  seq: 1556
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.94830509725
+    y: 0.356938330965
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0602032076511
+    w: 0.998186141854
+---
+header: 
+  seq: 1557
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.94830509725
+    y: 0.356938330965
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0602032076511
+    w: 0.998186141854
+---
+header: 
+  seq: 1558
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.94830509725
+    y: 0.356938330965
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0602032076511
+    w: 0.998186141854
+---
+header: 
+  seq: 1559
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.94830509725
+    y: 0.356938330965
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0602032076511
+    w: 0.998186141854
+---
+header: 
+  seq: 1560
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.94830509725
+    y: 0.356938330965
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0602032076511
+    w: 0.998186141854
+---
+header: 
+  seq: 1561
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.23657184965
+    y: 0.36874647919
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0566906097478
+    w: 0.99839179422
+---
+header: 
+  seq: 1562
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.23657184965
+    y: 0.36874647919
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0566906097478
+    w: 0.99839179422
+---
+header: 
+  seq: 1563
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.23657184965
+    y: 0.36874647919
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0566906097478
+    w: 0.99839179422
+---
+header: 
+  seq: 1564
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.23657184965
+    y: 0.36874647919
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0566906097478
+    w: 0.99839179422
+---
+header: 
+  seq: 1565
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.23657184965
+    y: 0.36874647919
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0566906097478
+    w: 0.99839179422
+---
+header: 
+  seq: 1566
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.02054636523
+    y: 0.319334571132
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0526404292402
+    w: 0.998613531457
+---
+header: 
+  seq: 1567
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.02054636523
+    y: 0.319334571132
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0526404292402
+    w: 0.998613531457
+---
+header: 
+  seq: 1568
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.02054636523
+    y: 0.319334571132
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0526404292402
+    w: 0.998613531457
+---
+header: 
+  seq: 1569
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.02054636523
+    y: 0.319334571132
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0526404292402
+    w: 0.998613531457
+---
+header: 
+  seq: 1570
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.89310111475
+    y: 0.313693986098
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.053976923211
+    w: 0.998542183266
+---
+header: 
+  seq: 1571
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.89310111475
+    y: 0.313693986098
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.053976923211
+    w: 0.998542183266
+---
+header: 
+  seq: 1572
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.89310111475
+    y: 0.313693986098
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.053976923211
+    w: 0.998542183266
+---
+header: 
+  seq: 1573
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.89310111475
+    y: 0.313693986098
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.053976923211
+    w: 0.998542183266
+---
+header: 
+  seq: 1574
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.89310111475
+    y: 0.313693986098
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.053976923211
+    w: 0.998542183266
+---
+header: 
+  seq: 1575
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.89310111475
+    y: 0.313693986098
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.053976923211
+    w: 0.998542183266
+---
+header: 
+  seq: 1576
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.37391898298
+    y: 0.392754409555
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0579112694322
+    w: 0.998321734148
+---
+header: 
+  seq: 1577
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.37391898298
+    y: 0.392754409555
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0579112694322
+    w: 0.998321734148
+---
+header: 
+  seq: 1578
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.37391898298
+    y: 0.392754409555
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0579112694322
+    w: 0.998321734148
+---
+header: 
+  seq: 1579
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.37391898298
+    y: 0.392754409555
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0579112694322
+    w: 0.998321734148
+---
+header: 
+  seq: 1580
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.37391898298
+    y: 0.392754409555
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0579112694322
+    w: 0.998321734148
+---
+header: 
+  seq: 1581
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.690402844
+    y: 0.412737165335
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.055660137968
+    w: 0.998449772919
+---
+header: 
+  seq: 1582
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.690402844
+    y: 0.412737165335
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.055660137968
+    w: 0.998449772919
+---
+header: 
+  seq: 1583
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.690402844
+    y: 0.412737165335
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.055660137968
+    w: 0.998449772919
+---
+header: 
+  seq: 1584
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.690402844
+    y: 0.412737165335
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.055660137968
+    w: 0.998449772919
+---
+header: 
+  seq: 1585
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.690402844
+    y: 0.412737165335
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.055660137968
+    w: 0.998449772919
+---
+header: 
+  seq: 1586
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.690402844
+    y: 0.412737165335
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.055660137968
+    w: 0.998449772919
+---
+header: 
+  seq: 1587
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.690402844
+    y: 0.412737165335
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.055660137968
+    w: 0.998449772919
+---
+header: 
+  seq: 1588
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.43395673933
+    y: 0.350110688893
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0507803449165
+    w: 0.998709846036
+---
+header: 
+  seq: 1589
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.43395673933
+    y: 0.350110688893
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0507803449165
+    w: 0.998709846036
+---
+header: 
+  seq: 1590
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.43395673933
+    y: 0.350110688893
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0507803449165
+    w: 0.998709846036
+---
+header: 
+  seq: 1591
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.43395673933
+    y: 0.350110688893
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0507803449165
+    w: 0.998709846036
+---
+header: 
+  seq: 1592
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.43395673933
+    y: 0.350110688893
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0507803449165
+    w: 0.998709846036
+---
+header: 
+  seq: 1593
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.39612222885
+    y: 0.303096634794
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0444913215116
+    w: 0.999009770878
+---
+header: 
+  seq: 1594
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.39612222885
+    y: 0.303096634794
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0444913215116
+    w: 0.999009770878
+---
+header: 
+  seq: 1595
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.39612222885
+    y: 0.303096634794
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0444913215116
+    w: 0.999009770878
+---
+header: 
+  seq: 1596
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.39612222885
+    y: 0.303096634794
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0444913215116
+    w: 0.999009770878
+---
+header: 
+  seq: 1597
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.39612222885
+    y: 0.303096634794
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0444913215116
+    w: 0.999009770878
+---
+header: 
+  seq: 1598
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.39612222885
+    y: 0.303096634794
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0444913215116
+    w: 0.999009770878
+---
+header: 
+  seq: 1599
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.39612222885
+    y: 0.303096634794
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0444913215116
+    w: 0.999009770878
+---
+header: 
+  seq: 1600
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.3091980059
+    y: 0.250020138369
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0376959778668
+    w: 0.999289254046
+---
+header: 
+  seq: 1601
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.3091980059
+    y: 0.250020138369
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0376959778668
+    w: 0.999289254046
+---
+header: 
+  seq: 1602
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.3091980059
+    y: 0.250020138369
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0376959778668
+    w: 0.999289254046
+---
+header: 
+  seq: 1603
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.3091980059
+    y: 0.250020138369
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0376959778668
+    w: 0.999289254046
+---
+header: 
+  seq: 1604
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.3091980059
+    y: 0.250020138369
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0376959778668
+    w: 0.999289254046
+---
+header: 
+  seq: 1605
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.3091980059
+    y: 0.250020138369
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0376959778668
+    w: 0.999289254046
+---
+header: 
+  seq: 1606
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.3091980059
+    y: 0.250020138369
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0376959778668
+    w: 0.999289254046
+---
+header: 
+  seq: 1607
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.2166827571
+    y: 0.189417229951
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0294047454125
+    w: 0.999567586983
+---
+header: 
+  seq: 1608
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.2166827571
+    y: 0.189417229951
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0294047454125
+    w: 0.999567586983
+---
+header: 
+  seq: 1609
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.2166827571
+    y: 0.189417229951
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0294047454125
+    w: 0.999567586983
+---
+header: 
+  seq: 1610
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.2166827571
+    y: 0.189417229951
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0294047454125
+    w: 0.999567586983
+---
+header: 
+  seq: 1611
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.2166827571
+    y: 0.189417229951
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0294047454125
+    w: 0.999567586983
+---
+header: 
+  seq: 1612
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.2166827571
+    y: 0.189417229951
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0294047454125
+    w: 0.999567586983
+---
+header: 
+  seq: 1613
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.2166827571
+    y: 0.189417229951
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0294047454125
+    w: 0.999567586983
+---
+header: 
+  seq: 1614
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.43741828364
+    y: 0.113362412897
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0164827496524
+    w: 0.999864150254
+---
+header: 
+  seq: 1615
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.43741828364
+    y: 0.113362412897
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0164827496524
+    w: 0.999864150254
+---
+header: 
+  seq: 1616
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.43741828364
+    y: 0.113362412897
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0164827496524
+    w: 0.999864150254
+---
+header: 
+  seq: 1617
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.43741828364
+    y: 0.113362412897
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0164827496524
+    w: 0.999864150254
+---
+header: 
+  seq: 1618
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.43741828364
+    y: 0.113362412897
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0164827496524
+    w: 0.999864150254
+---
+header: 
+  seq: 1619
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.43741828364
+    y: 0.113362412897
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0164827496524
+    w: 0.999864150254
+---
+header: 
+  seq: 1620
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.43741828364
+    y: 0.113362412897
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0164827496524
+    w: 0.999864150254
+---
+header: 
+  seq: 1621
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.43741828364
+    y: 0.113362412897
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0164827496524
+    w: 0.999864150254
+---
+header: 
+  seq: 1622
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.43741828364
+    y: 0.113362412897
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0164827496524
+    w: 0.999864150254
+---
+header: 
+  seq: 1623
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.52506595081
+    y: -0.016035310796
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00227445196634
+    w: 0.999997413431
+---
+header: 
+  seq: 1624
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.52506595081
+    y: -0.016035310796
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00227445196634
+    w: 0.999997413431
+---
+header: 
+  seq: 1625
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.52506595081
+    y: -0.016035310796
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00227445196634
+    w: 0.999997413431
+---
+header: 
+  seq: 1626
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.52506595081
+    y: -0.016035310796
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00227445196634
+    w: 0.999997413431
+---
+header: 
+  seq: 1627
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.52506595081
+    y: -0.016035310796
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00227445196634
+    w: 0.999997413431
+---
+header: 
+  seq: 1628
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.52506595081
+    y: -0.016035310796
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00227445196634
+    w: 0.999997413431
+---
+header: 
+  seq: 1629
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.52506595081
+    y: -0.016035310796
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.00227445196634
+    w: 0.999997413431
+---
+header: 
+  seq: 1630
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.89775826349
+    y: -0.192197517173
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0246324341096
+    w: 0.999696575562
+---
+header: 
+  seq: 1631
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.89775826349
+    y: -0.192197517173
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0246324341096
+    w: 0.999696575562
+---
+header: 
+  seq: 1632
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.89775826349
+    y: -0.192197517173
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0246324341096
+    w: 0.999696575562
+---
+header: 
+  seq: 1633
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.89775826349
+    y: -0.192197517173
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0246324341096
+    w: 0.999696575562
+---
+header: 
+  seq: 1634
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.89775826349
+    y: -0.192197517173
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0246324341096
+    w: 0.999696575562
+---
+header: 
+  seq: 1635
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.89775826349
+    y: -0.192197517173
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0246324341096
+    w: 0.999696575562
+---
+header: 
+  seq: 1636
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.89775826349
+    y: -0.192197517173
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0246324341096
+    w: 0.999696575562
+---
+header: 
+  seq: 1637
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.89775826349
+    y: -0.192197517173
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0246324341096
+    w: 0.999696575562
+---
+header: 
+  seq: 1638
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.89775826349
+    y: -0.192197517173
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0246324341096
+    w: 0.999696575562
+---
+header: 
+  seq: 1639
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.17308507017
+    y: -0.375163050765
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0448147953333
+    w: 0.998995312361
+---
+header: 
+  seq: 1640
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.17308507017
+    y: -0.375163050765
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0448147953333
+    w: 0.998995312361
+---
+header: 
+  seq: 1641
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.17308507017
+    y: -0.375163050765
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0448147953333
+    w: 0.998995312361
+---
+header: 
+  seq: 1642
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.17308507017
+    y: -0.375163050765
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0448147953333
+    w: 0.998995312361
+---
+header: 
+  seq: 1643
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.17308507017
+    y: -0.375163050765
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0448147953333
+    w: 0.998995312361
+---
+header: 
+  seq: 1644
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.17308507017
+    y: -0.375163050765
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0448147953333
+    w: 0.998995312361
+---
+header: 
+  seq: 1645
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.17308507017
+    y: -0.375163050765
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0448147953333
+    w: 0.998995312361
+---
+header: 
+  seq: 1646
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.79197383937
+    y: -0.597058701238
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.061938710095
+    w: 0.998079954809
+---
+header: 
+  seq: 1647
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.79197383937
+    y: -0.597058701238
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.061938710095
+    w: 0.998079954809
+---
+header: 
+  seq: 1648
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.79197383937
+    y: -0.597058701238
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.061938710095
+    w: 0.998079954809
+---
+header: 
+  seq: 1649
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.79197383937
+    y: -0.597058701238
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.061938710095
+    w: 0.998079954809
+---
+header: 
+  seq: 1650
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.79197383937
+    y: -0.597058701238
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.061938710095
+    w: 0.998079954809
+---
+header: 
+  seq: 1651
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.79197383937
+    y: -0.597058701238
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.061938710095
+    w: 0.998079954809
+---
+header: 
+  seq: 1652
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.79197383937
+    y: -0.597058701238
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.061938710095
+    w: 0.998079954809
+---
+header: 
+  seq: 1653
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.17804780376
+    y: -0.602963082588
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0716023576584
+    w: 0.997433257104
+---
+header: 
+  seq: 1654
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.17804780376
+    y: -0.602963082588
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0716023576584
+    w: 0.997433257104
+---
+header: 
+  seq: 1655
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.17804780376
+    y: -0.602963082588
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0716023576584
+    w: 0.997433257104
+---
+header: 
+  seq: 1656
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.17804780376
+    y: -0.602963082588
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0716023576584
+    w: 0.997433257104
+---
+header: 
+  seq: 1657
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.17804780376
+    y: -0.602963082588
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0716023576584
+    w: 0.997433257104
+---
+header: 
+  seq: 1658
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.17804780376
+    y: -0.602963082588
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.0716023576584
+    w: 0.997433257104
+---
+header: 
+  seq: 1659
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.93600463193
+    y: -0.542332800265
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.091202613684
+    w: 0.995832357005
+---
+header: 
+  seq: 1660
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.93600463193
+    y: -0.542332800265
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.091202613684
+    w: 0.995832357005
+---
+header: 
+  seq: 1661
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.93600463193
+    y: -0.542332800265
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.091202613684
+    w: 0.995832357005
+---
+header: 
+  seq: 1662
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.93600463193
+    y: -0.542332800265
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.091202613684
+    w: 0.995832357005
+---
+header: 
+  seq: 1663
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.93600463193
+    y: -0.542332800265
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.091202613684
+    w: 0.995832357005
+---
+header: 
+  seq: 1664
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.93600463193
+    y: -0.542332800265
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.091202613684
+    w: 0.995832357005
+---
+header: 
+  seq: 1665
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.93600463193
+    y: -0.542332800265
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.091202613684
+    w: 0.995832357005
+---
+header: 
+  seq: 1666
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.93600463193
+    y: -0.542332800265
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.091202613684
+    w: 0.995832357005
+---
+header: 
+  seq: 1667
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.55679815369
+    y: -0.785588850649
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.108475964946
+    w: 0.994099072039
+---
+header: 
+  seq: 1668
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.55679815369
+    y: -0.785588850649
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.108475964946
+    w: 0.994099072039
+---
+header: 
+  seq: 1669
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.55679815369
+    y: -0.785588850649
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.108475964946
+    w: 0.994099072039
+---
+header: 
+  seq: 1670
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.55679815369
+    y: -0.785588850649
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.108475964946
+    w: 0.994099072039
+---
+header: 
+  seq: 1671
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.55679815369
+    y: -0.785588850649
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.108475964946
+    w: 0.994099072039
+---
+header: 
+  seq: 1672
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.55679815369
+    y: -0.785588850649
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.108475964946
+    w: 0.994099072039
+---
+header: 
+  seq: 1673
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.43454928256
+    y: -0.829837926624
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.118258245415
+    w: 0.992982873665
+---
+header: 
+  seq: 1674
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.43454928256
+    y: -0.829837926624
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.118258245415
+    w: 0.992982873665
+---
+header: 
+  seq: 1675
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.43454928256
+    y: -0.829837926624
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.118258245415
+    w: 0.992982873665
+---
+header: 
+  seq: 1676
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.43454928256
+    y: -0.829837926624
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.118258245415
+    w: 0.992982873665
+---
+header: 
+  seq: 1677
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.43454928256
+    y: -0.829837926624
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.118258245415
+    w: 0.992982873665
+---
+header: 
+  seq: 1678
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.43454928256
+    y: -0.829837926624
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.118258245415
+    w: 0.992982873665
+---
+header: 
+  seq: 1679
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.43454928256
+    y: -0.829837926624
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.118258245415
+    w: 0.992982873665
+---
+header: 
+  seq: 1680
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.43454928256
+    y: -0.829837926624
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.118258245415
+    w: 0.992982873665
+---
+header: 
+  seq: 1681
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.97896708185
+    y: -0.79797291032
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.130489097597
+    w: 0.991449744268
+---
+header: 
+  seq: 1682
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.97896708185
+    y: -0.79797291032
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.130489097597
+    w: 0.991449744268
+---
+header: 
+  seq: 1683
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.97896708185
+    y: -0.79797291032
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.130489097597
+    w: 0.991449744268
+---
+header: 
+  seq: 1684
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.97896708185
+    y: -0.79797291032
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.130489097597
+    w: 0.991449744268
+---
+header: 
+  seq: 1685
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.97896708185
+    y: -0.79797291032
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.130489097597
+    w: 0.991449744268
+---
+header: 
+  seq: 1686
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.97896708185
+    y: -0.79797291032
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.130489097597
+    w: 0.991449744268
+---
+header: 
+  seq: 1687
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.97896708185
+    y: -0.79797291032
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.130489097597
+    w: 0.991449744268
+---
+header: 
+  seq: 1688
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.09283235572
+    y: -0.887832933231
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.139317690637
+    w: 0.990247737223
+---
+header: 
+  seq: 1689
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.09283235572
+    y: -0.887832933231
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.139317690637
+    w: 0.990247737223
+---
+header: 
+  seq: 1690
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.09283235572
+    y: -0.887832933231
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.139317690637
+    w: 0.990247737223
+---
+header: 
+  seq: 1691
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.09283235572
+    y: -0.887832933231
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.139317690637
+    w: 0.990247737223
+---
+header: 
+  seq: 1692
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.09283235572
+    y: -0.887832933231
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.139317690637
+    w: 0.990247737223
+---
+header: 
+  seq: 1693
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.09283235572
+    y: -0.887832933231
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.139317690637
+    w: 0.990247737223
+---
+header: 
+  seq: 1694
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.09283235572
+    y: -0.887832933231
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.139317690637
+    w: 0.990247737223
+---
+header: 
+  seq: 1695
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.13084881389
+    y: -0.932007603091
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.14416185088
+    w: 0.989554122194
+---
+header: 
+  seq: 1696
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.13084881389
+    y: -0.932007603091
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.14416185088
+    w: 0.989554122194
+---
+header: 
+  seq: 1697
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.13084881389
+    y: -0.932007603091
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.14416185088
+    w: 0.989554122194
+---
+header: 
+  seq: 1698
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.13084881389
+    y: -0.932007603091
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.14416185088
+    w: 0.989554122194
+---
+header: 
+  seq: 1699
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.13084881389
+    y: -0.932007603091
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.14416185088
+    w: 0.989554122194
+---
+header: 
+  seq: 1700
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.13084881389
+    y: -0.932007603091
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.14416185088
+    w: 0.989554122194
+---
+header: 
+  seq: 1701
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.13084881389
+    y: -0.932007603091
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.14416185088
+    w: 0.989554122194
+---
+header: 
+  seq: 1702
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.13084881389
+    y: -0.932007603091
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.14416185088
+    w: 0.989554122194
+---
+header: 
+  seq: 1703
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.13084881389
+    y: -0.932007603091
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.14416185088
+    w: 0.989554122194
+---
+header: 
+  seq: 1704
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.23947071473
+    y: -1.05919478762
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.157347628744
+    w: 0.987543276889
+---
+header: 
+  seq: 1705
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.23947071473
+    y: -1.05919478762
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.157347628744
+    w: 0.987543276889
+---
+header: 
+  seq: 1706
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.23947071473
+    y: -1.05919478762
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.157347628744
+    w: 0.987543276889
+---
+header: 
+  seq: 1707
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.23947071473
+    y: -1.05919478762
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.157347628744
+    w: 0.987543276889
+---
+header: 
+  seq: 1708
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.23947071473
+    y: -1.05919478762
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.157347628744
+    w: 0.987543276889
+---
+header: 
+  seq: 1709
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.23947071473
+    y: -1.05919478762
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.157347628744
+    w: 0.987543276889
+---
+header: 
+  seq: 1710
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.6552794193
+    y: -0.919813368987
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.165964684394
+    w: 0.986131696851
+---
+header: 
+  seq: 1711
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.6552794193
+    y: -0.919813368987
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.165964684394
+    w: 0.986131696851
+---
+header: 
+  seq: 1712
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.6552794193
+    y: -0.919813368987
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.165964684394
+    w: 0.986131696851
+---
+header: 
+  seq: 1713
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.6552794193
+    y: -0.919813368987
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.165964684394
+    w: 0.986131696851
+---
+header: 
+  seq: 1714
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.6552794193
+    y: -0.919813368987
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.165964684394
+    w: 0.986131696851
+---
+header: 
+  seq: 1715
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.6552794193
+    y: -0.919813368987
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.165964684394
+    w: 0.986131696851
+---
+header: 
+  seq: 1716
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.6552794193
+    y: -0.919813368987
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.165964684394
+    w: 0.986131696851
+---
+header: 
+  seq: 1717
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.6552794193
+    y: -0.919813368987
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.165964684394
+    w: 0.986131696851
+---
+header: 
+  seq: 1718
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.6552794193
+    y: -0.919813368987
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.165964684394
+    w: 0.986131696851
+---
+header: 
+  seq: 1719
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.73515030954
+    y: -0.943111492617
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.165260936574
+    w: 0.986249878501
+---
+header: 
+  seq: 1720
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.73515030954
+    y: -0.943111492617
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.165260936574
+    w: 0.986249878501
+---
+header: 
+  seq: 1721
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.73515030954
+    y: -0.943111492617
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.165260936574
+    w: 0.986249878501
+---
+header: 
+  seq: 1722
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.73515030954
+    y: -0.943111492617
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.165260936574
+    w: 0.986249878501
+---
+header: 
+  seq: 1723
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.73515030954
+    y: -0.943111492617
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.165260936574
+    w: 0.986249878501
+---
+header: 
+  seq: 1724
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.73515030954
+    y: -0.943111492617
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.165260936574
+    w: 0.986249878501
+---
+header: 
+  seq: 1725
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.73515030954
+    y: -0.943111492617
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.165260936574
+    w: 0.986249878501
+---
+header: 
+  seq: 1726
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.73515030954
+    y: -0.943111492617
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.165260936574
+    w: 0.986249878501
+---
+header: 
+  seq: 1727
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.22685068089
+    y: -1.08156115286
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.160999987136
+    w: 0.98695440834
+---
+header: 
+  seq: 1728
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.22685068089
+    y: -1.08156115286
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.160999987136
+    w: 0.98695440834
+---
+header: 
+  seq: 1729
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.22685068089
+    y: -1.08156115286
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.160999987136
+    w: 0.98695440834
+---
+header: 
+  seq: 1730
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.22685068089
+    y: -1.08156115286
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.160999987136
+    w: 0.98695440834
+---
+header: 
+  seq: 1731
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.22685068089
+    y: -1.08156115286
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.160999987136
+    w: 0.98695440834
+---
+header: 
+  seq: 1732
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.22685068089
+    y: -1.08156115286
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.160999987136
+    w: 0.98695440834
+---
+header: 
+  seq: 1733
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.04934597734
+    y: -0.929690719814
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.147425506907
+    w: 0.989073162063
+---
+header: 
+  seq: 1734
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.04934597734
+    y: -0.929690719814
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.147425506907
+    w: 0.989073162063
+---
+header: 
+  seq: 1735
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.04934597734
+    y: -0.929690719814
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.147425506907
+    w: 0.989073162063
+---
+header: 
+  seq: 1736
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.04934597734
+    y: -0.929690719814
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.147425506907
+    w: 0.989073162063
+---
+header: 
+  seq: 1737
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.04934597734
+    y: -0.929690719814
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.147425506907
+    w: 0.989073162063
+---
+header: 
+  seq: 1738
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.04934597734
+    y: -0.929690719814
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.147425506907
+    w: 0.989073162063
+---
+header: 
+  seq: 1739
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.04934597734
+    y: -0.929690719814
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.147425506907
+    w: 0.989073162063
+---
+header: 
+  seq: 1740
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.04934597734
+    y: -0.929690719814
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.147425506907
+    w: 0.989073162063
+---
+header: 
+  seq: 1741
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.04934597734
+    y: -0.929690719814
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.147425506907
+    w: 0.989073162063
+---
+header: 
+  seq: 1742
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.51736167458
+    y: -1.11574594713
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.152982402892
+    w: 0.988228912958
+---
+header: 
+  seq: 1743
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.51736167458
+    y: -1.11574594713
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.152982402892
+    w: 0.988228912958
+---
+header: 
+  seq: 1744
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.51736167458
+    y: -1.11574594713
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.152982402892
+    w: 0.988228912958
+---
+header: 
+  seq: 1745
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.51736167458
+    y: -1.11574594713
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.152982402892
+    w: 0.988228912958
+---
+header: 
+  seq: 1746
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.51736167458
+    y: -1.11574594713
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.152982402892
+    w: 0.988228912958
+---
+header: 
+  seq: 1747
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.51736167458
+    y: -1.11574594713
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.152982402892
+    w: 0.988228912958
+---
+header: 
+  seq: 1748
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.51736167458
+    y: -1.11574594713
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.152982402892
+    w: 0.988228912958
+---
+header: 
+  seq: 1749
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.59747095249
+    y: -1.28577099904
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.170788909445
+    w: 0.985307641506
+---
+header: 
+  seq: 1750
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.59747095249
+    y: -1.28577099904
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.170788909445
+    w: 0.985307641506
+---
+header: 
+  seq: 1751
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.59747095249
+    y: -1.28577099904
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.170788909445
+    w: 0.985307641506
+---
+header: 
+  seq: 1752
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.59747095249
+    y: -1.28577099904
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.170788909445
+    w: 0.985307641506
+---
+header: 
+  seq: 1753
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.59747095249
+    y: -1.28577099904
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.170788909445
+    w: 0.985307641506
+---
+header: 
+  seq: 1754
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.59747095249
+    y: -1.28577099904
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.170788909445
+    w: 0.985307641506
+---
+header: 
+  seq: 1755
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.26616379679
+    y: -1.24103313486
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.180563078641
+    w: 0.983563406513
+---
+header: 
+  seq: 1756
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.26616379679
+    y: -1.24103313486
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.180563078641
+    w: 0.983563406513
+---
+header: 
+  seq: 1757
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.26616379679
+    y: -1.24103313486
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.180563078641
+    w: 0.983563406513
+---
+header: 
+  seq: 1758
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.26616379679
+    y: -1.24103313486
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.180563078641
+    w: 0.983563406513
+---
+header: 
+  seq: 1759
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.26616379679
+    y: -1.24103313486
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.180563078641
+    w: 0.983563406513
+---
+header: 
+  seq: 1760
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.26616379679
+    y: -1.24103313486
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.180563078641
+    w: 0.983563406513
+---
+header: 
+  seq: 1761
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.26616379679
+    y: -1.24103313486
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.180563078641
+    w: 0.983563406513
+---
+header: 
+  seq: 1762
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.17612548533
+    y: -1.27903622161
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.190250516913
+    w: 0.981735575812
+---
+header: 
+  seq: 1763
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.17612548533
+    y: -1.27903622161
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.190250516913
+    w: 0.981735575812
+---
+header: 
+  seq: 1764
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.17612548533
+    y: -1.27903622161
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.190250516913
+    w: 0.981735575812
+---
+header: 
+  seq: 1765
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.17612548533
+    y: -1.27903622161
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.190250516913
+    w: 0.981735575812
+---
+header: 
+  seq: 1766
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.17612548533
+    y: -1.27903622161
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.190250516913
+    w: 0.981735575812
+---
+header: 
+  seq: 1767
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.17612548533
+    y: -1.27903622161
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.190250516913
+    w: 0.981735575812
+---
+header: 
+  seq: 1768
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.00162948591
+    y: -1.23138609972
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.193424135943
+    w: 0.981115234636
+---
+header: 
+  seq: 1769
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.00162948591
+    y: -1.23138609972
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.193424135943
+    w: 0.981115234636
+---
+header: 
+  seq: 1770
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.00162948591
+    y: -1.23138609972
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.193424135943
+    w: 0.981115234636
+---
+header: 
+  seq: 1771
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.00162948591
+    y: -1.23138609972
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.193424135943
+    w: 0.981115234636
+---
+header: 
+  seq: 1772
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.00162948591
+    y: -1.23138609972
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.193424135943
+    w: 0.981115234636
+---
+header: 
+  seq: 1773
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.00162948591
+    y: -1.23138609972
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.193424135943
+    w: 0.981115234636
+---
+header: 
+  seq: 1774
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.00162948591
+    y: -1.23138609972
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.193424135943
+    w: 0.981115234636
+---
+header: 
+  seq: 1775
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.00162948591
+    y: -1.23138609972
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.193424135943
+    w: 0.981115234636
+---
+header: 
+  seq: 1776
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.00162948591
+    y: -1.23138609972
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.193424135943
+    w: 0.981115234636
+---
+header: 
+  seq: 1777
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.08419788802
+    y: -1.12553760776
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.174068339717
+    w: 0.984733574683
+---
+header: 
+  seq: 1778
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.08419788802
+    y: -1.12553760776
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.174068339717
+    w: 0.984733574683
+---
+header: 
+  seq: 1779
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.08419788802
+    y: -1.12553760776
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.174068339717
+    w: 0.984733574683
+---
+header: 
+  seq: 1780
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.08419788802
+    y: -1.12553760776
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.174068339717
+    w: 0.984733574683
+---
+header: 
+  seq: 1781
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.08419788802
+    y: -1.12553760776
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.174068339717
+    w: 0.984733574683
+---
+header: 
+  seq: 1782
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.08419788802
+    y: -1.12553760776
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.174068339717
+    w: 0.984733574683
+---
+header: 
+  seq: 1783
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.08419788802
+    y: -1.12553760776
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.174068339717
+    w: 0.984733574683
+---
+header: 
+  seq: 1784
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.19028379584
+    y: -1.01060543675
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.152787082879
+    w: 0.988259129634
+---
+header: 
+  seq: 1785
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.19028379584
+    y: -1.01060543675
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.152787082879
+    w: 0.988259129634
+---
+header: 
+  seq: 1786
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.19028379584
+    y: -1.01060543675
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.152787082879
+    w: 0.988259129634
+---
+header: 
+  seq: 1787
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.19028379584
+    y: -1.01060543675
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.152787082879
+    w: 0.988259129634
+---
+header: 
+  seq: 1788
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.19028379584
+    y: -1.01060543675
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.152787082879
+    w: 0.988259129634
+---
+header: 
+  seq: 1789
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.00166542076
+    y: -0.911574478834
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.146885754789
+    w: 0.989153463847
+---
+header: 
+  seq: 1790
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.00166542076
+    y: -0.911574478834
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.146885754789
+    w: 0.989153463847
+---
+header: 
+  seq: 1791
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.00166542076
+    y: -0.911574478834
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.146885754789
+    w: 0.989153463847
+---
+header: 
+  seq: 1792
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.00166542076
+    y: -0.911574478834
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.146885754789
+    w: 0.989153463847
+---
+header: 
+  seq: 1793
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.00166542076
+    y: -0.911574478834
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.146885754789
+    w: 0.989153463847
+---
+header: 
+  seq: 1794
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.29777221295
+    y: -1.1289316865
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.164167019591
+    w: 0.986432557086
+---
+header: 
+  seq: 1795
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.29777221295
+    y: -1.1289316865
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.164167019591
+    w: 0.986432557086
+---
+header: 
+  seq: 1796
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.29777221295
+    y: -1.1289316865
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.164167019591
+    w: 0.986432557086
+---
+header: 
+  seq: 1797
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.29777221295
+    y: -1.1289316865
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.164167019591
+    w: 0.986432557086
+---
+header: 
+  seq: 1798
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.29777221295
+    y: -1.1289316865
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.164167019591
+    w: 0.986432557086
+---
+header: 
+  seq: 1799
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.29777221295
+    y: -1.1289316865
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.164167019591
+    w: 0.986432557086
+---
+header: 
+  seq: 1800
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.68944950342
+    y: -1.367173492
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.176507907811
+    w: 0.984299222026
+---
+header: 
+  seq: 1801
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.68944950342
+    y: -1.367173492
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.176507907811
+    w: 0.984299222026
+---
+header: 
+  seq: 1802
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.68944950342
+    y: -1.367173492
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.176507907811
+    w: 0.984299222026
+---
+header: 
+  seq: 1803
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.68944950342
+    y: -1.367173492
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.176507907811
+    w: 0.984299222026
+---
+header: 
+  seq: 1804
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.67453041284
+    y: -1.94879546194
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.196212150408
+    w: 0.980561467748
+---
+header: 
+  seq: 1805
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.67453041284
+    y: -1.94879546194
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.196212150408
+    w: 0.980561467748
+---
+header: 
+  seq: 1806
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.67453041284
+    y: -1.94879546194
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.196212150408
+    w: 0.980561467748
+---
+header: 
+  seq: 1807
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.67453041284
+    y: -1.94879546194
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.196212150408
+    w: 0.980561467748
+---
+header: 
+  seq: 1808
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.67453041284
+    y: -1.94879546194
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.196212150408
+    w: 0.980561467748
+---
+header: 
+  seq: 1809
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.67453041284
+    y: -1.94879546194
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.196212150408
+    w: 0.980561467748
+---
+header: 
+  seq: 1810
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.67453041284
+    y: -1.94879546194
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.196212150408
+    w: 0.980561467748
+---
+header: 
+  seq: 1811
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.67453041284
+    y: -1.94879546194
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.196212150408
+    w: 0.980561467748
+---
+header: 
+  seq: 1812
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.36623416082
+    y: -1.96369525323
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.20975192655
+    w: 0.977754636557
+---
+header: 
+  seq: 1813
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.36623416082
+    y: -1.96369525323
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.20975192655
+    w: 0.977754636557
+---
+header: 
+  seq: 1814
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.36623416082
+    y: -1.96369525323
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.20975192655
+    w: 0.977754636557
+---
+header: 
+  seq: 1815
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.36623416082
+    y: -1.96369525323
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.20975192655
+    w: 0.977754636557
+---
+header: 
+  seq: 1816
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.6360245927
+    y: -1.15436266266
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.204918680549
+    w: 0.978779001799
+---
+header: 
+  seq: 1817
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.6360245927
+    y: -1.15436266266
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.204918680549
+    w: 0.978779001799
+---
+header: 
+  seq: 1818
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.6360245927
+    y: -1.15436266266
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.204918680549
+    w: 0.978779001799
+---
+header: 
+  seq: 1819
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.6360245927
+    y: -1.15436266266
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.204918680549
+    w: 0.978779001799
+---
+header: 
+  seq: 1820
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.6360245927
+    y: -1.15436266266
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.204918680549
+    w: 0.978779001799
+---
+header: 
+  seq: 1821
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.5209272498
+    y: -0.94507267671
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.178377744854
+    w: 0.983962082674
+---
+header: 
+  seq: 1822
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.5209272498
+    y: -0.94507267671
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.178377744854
+    w: 0.983962082674
+---
+header: 
+  seq: 1823
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.5209272498
+    y: -0.94507267671
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.178377744854
+    w: 0.983962082674
+---
+header: 
+  seq: 1824
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.5209272498
+    y: -0.94507267671
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.178377744854
+    w: 0.983962082674
+---
+header: 
+  seq: 1825
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.5209272498
+    y: -0.94507267671
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.178377744854
+    w: 0.983962082674
+---
+header: 
+  seq: 1826
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.88780976878
+    y: -0.952675713003
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.158653471829
+    w: 0.987334328319
+---
+header: 
+  seq: 1827
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.88780976878
+    y: -0.952675713003
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.158653471829
+    w: 0.987334328319
+---
+header: 
+  seq: 1828
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.88780976878
+    y: -0.952675713003
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.158653471829
+    w: 0.987334328319
+---
+header: 
+  seq: 1829
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.88780976878
+    y: -0.952675713003
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.158653471829
+    w: 0.987334328319
+---
+header: 
+  seq: 1830
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 6.89510548918
+    y: -2.25605270032
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.157450608614
+    w: 0.987526863355
+---
+header: 
+  seq: 1831
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 6.89510548918
+    y: -2.25605270032
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.157450608614
+    w: 0.987526863355
+---
+header: 
+  seq: 1832
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 6.89510548918
+    y: -2.25605270032
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.157450608614
+    w: 0.987526863355
+---
+header: 
+  seq: 1833
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 6.89510548918
+    y: -2.25605270032
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.157450608614
+    w: 0.987526863355
+---
+header: 
+  seq: 1834
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 6.89510548918
+    y: -2.25605270032
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.157450608614
+    w: 0.987526863355
+---
+header: 
+  seq: 1835
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 9.68579686173
+    y: -3.20317354736
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.159015208798
+    w: 0.987276133294
+---
+header: 
+  seq: 1836
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 9.68579686173
+    y: -3.20317354736
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.159015208798
+    w: 0.987276133294
+---
+header: 
+  seq: 1837
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 9.68579686173
+    y: -3.20317354736
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.159015208798
+    w: 0.987276133294
+---
+header: 
+  seq: 1838
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 9.68579686173
+    y: -3.20317354736
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.159015208798
+    w: 0.987276133294
+---
+header: 
+  seq: 1839
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 9.68579686173
+    y: -3.20317354736
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.159015208798
+    w: 0.987276133294
+---
+header: 
+  seq: 1840
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 9.39408739479
+    y: -3.13294256652
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.160256952188
+    w: 0.987075331105
+---
+header: 
+  seq: 1841
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 9.39408739479
+    y: -3.13294256652
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.160256952188
+    w: 0.987075331105
+---
+header: 
+  seq: 1842
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 9.39408739479
+    y: -3.13294256652
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.160256952188
+    w: 0.987075331105
+---
+header: 
+  seq: 1843
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 9.39408739479
+    y: -3.13294256652
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.160256952188
+    w: 0.987075331105
+---
+header: 
+  seq: 1844
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 9.39408739479
+    y: -3.13294256652
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.160256952188
+    w: 0.987075331105
+---
+header: 
+  seq: 1845
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 6.76435851659
+    y: -2.31837604907
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.164344665588
+    w: 0.986402975914
+---
+header: 
+  seq: 1846
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 6.76435851659
+    y: -2.31837604907
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.164344665588
+    w: 0.986402975914
+---
+header: 
+  seq: 1847
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 6.76435851659
+    y: -2.31837604907
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.164344665588
+    w: 0.986402975914
+---
+header: 
+  seq: 1848
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 6.76435851659
+    y: -2.31837604907
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.164344665588
+    w: 0.986402975914
+---
+header: 
+  seq: 1849
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 6.76435851659
+    y: -2.31837604907
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.164344665588
+    w: 0.986402975914
+---
+header: 
+  seq: 1850
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.93417177449
+    y: -1.56743977569
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.18843697287
+    w: 0.982085285123
+---
+header: 
+  seq: 1851
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.93417177449
+    y: -1.56743977569
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.18843697287
+    w: 0.982085285123
+---
+header: 
+  seq: 1852
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.93417177449
+    y: -1.56743977569
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.18843697287
+    w: 0.982085285123
+---
+header: 
+  seq: 1853
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.93417177449
+    y: -1.56743977569
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.18843697287
+    w: 0.982085285123
+---
+header: 
+  seq: 1854
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.98088783491
+    y: -1.72533379179
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.203061717433
+    w: 0.979165940438
+---
+header: 
+  seq: 1855
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.98088783491
+    y: -1.72533379179
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.203061717433
+    w: 0.979165940438
+---
+header: 
+  seq: 1856
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.98088783491
+    y: -1.72533379179
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.203061717433
+    w: 0.979165940438
+---
+header: 
+  seq: 1857
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.98088783491
+    y: -1.72533379179
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.203061717433
+    w: 0.979165940438
+---
+header: 
+  seq: 1858
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.98088783491
+    y: -1.72533379179
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.203061717433
+    w: 0.979165940438
+---
+header: 
+  seq: 1859
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.98088783491
+    y: -1.72533379179
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.203061717433
+    w: 0.979165940438
+---
+header: 
+  seq: 1860
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.20491645453
+    y: -1.34613016964
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.197515312079
+    w: 0.980299801843
+---
+header: 
+  seq: 1861
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.20491645453
+    y: -1.34613016964
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.197515312079
+    w: 0.980299801843
+---
+header: 
+  seq: 1862
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.20491645453
+    y: -1.34613016964
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.197515312079
+    w: 0.980299801843
+---
+header: 
+  seq: 1863
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.20491645453
+    y: -1.34613016964
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.197515312079
+    w: 0.980299801843
+---
+header: 
+  seq: 1864
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.20491645453
+    y: -1.34613016964
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.197515312079
+    w: 0.980299801843
+---
+header: 
+  seq: 1865
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.07301438339
+    y: -1.17328295875
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.18135127272
+    w: 0.983418382929
+---
+header: 
+  seq: 1866
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.07301438339
+    y: -1.17328295875
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.18135127272
+    w: 0.983418382929
+---
+header: 
+  seq: 1867
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.07301438339
+    y: -1.17328295875
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.18135127272
+    w: 0.983418382929
+---
+header: 
+  seq: 1868
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.07301438339
+    y: -1.17328295875
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.18135127272
+    w: 0.983418382929
+---
+header: 
+  seq: 1869
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.07301438339
+    y: -1.17328295875
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.18135127272
+    w: 0.983418382929
+---
+header: 
+  seq: 1870
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.07301438339
+    y: -1.17328295875
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.18135127272
+    w: 0.983418382929
+---
+header: 
+  seq: 1871
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.61557332793
+    y: -1.3484560746
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.17754327332
+    w: 0.984112994579
+---
+header: 
+  seq: 1872
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.61557332793
+    y: -1.3484560746
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.17754327332
+    w: 0.984112994579
+---
+header: 
+  seq: 1873
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.61557332793
+    y: -1.3484560746
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.17754327332
+    w: 0.984112994579
+---
+header: 
+  seq: 1874
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.61557332793
+    y: -1.3484560746
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.17754327332
+    w: 0.984112994579
+---
+header: 
+  seq: 1875
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.72044066176
+    y: -1.39599017002
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.178520433402
+    w: 0.983936204669
+---
+header: 
+  seq: 1876
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.72044066176
+    y: -1.39599017002
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.178520433402
+    w: 0.983936204669
+---
+header: 
+  seq: 1877
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.72044066176
+    y: -1.39599017002
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.178520433402
+    w: 0.983936204669
+---
+header: 
+  seq: 1878
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.72044066176
+    y: -1.39599017002
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.178520433402
+    w: 0.983936204669
+---
+header: 
+  seq: 1879
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.72044066176
+    y: -1.39599017002
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.178520433402
+    w: 0.983936204669
+---
+header: 
+  seq: 1880
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.72044066176
+    y: -1.39599017002
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.178520433402
+    w: 0.983936204669
+---
+header: 
+  seq: 1881
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.28337118642
+    y: -1.17855906861
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.171460489728
+    w: 0.985190996945
+---
+header: 
+  seq: 1882
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.28337118642
+    y: -1.17855906861
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.171460489728
+    w: 0.985190996945
+---
+header: 
+  seq: 1883
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.28337118642
+    y: -1.17855906861
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.171460489728
+    w: 0.985190996945
+---
+header: 
+  seq: 1884
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.28337118642
+    y: -1.17855906861
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.171460489728
+    w: 0.985190996945
+---
+header: 
+  seq: 1885
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.28337118642
+    y: -1.17855906861
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.171460489728
+    w: 0.985190996945
+---
+header: 
+  seq: 1886
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.28337118642
+    y: -1.17855906861
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.171460489728
+    w: 0.985190996945
+---
+header: 
+  seq: 1887
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.17911108569
+    y: -1.09266487028
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.164771457681
+    w: 0.986331773154
+---
+header: 
+  seq: 1888
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.17911108569
+    y: -1.09266487028
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.164771457681
+    w: 0.986331773154
+---
+header: 
+  seq: 1889
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.17911108569
+    y: -1.09266487028
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.164771457681
+    w: 0.986331773154
+---
+header: 
+  seq: 1890
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.17911108569
+    y: -1.09266487028
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.164771457681
+    w: 0.986331773154
+---
+header: 
+  seq: 1891
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.17911108569
+    y: -1.09266487028
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.164771457681
+    w: 0.986331773154
+---
+header: 
+  seq: 1892
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.17911108569
+    y: -1.09266487028
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.164771457681
+    w: 0.986331773154
+---
+header: 
+  seq: 1893
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.17911108569
+    y: -1.09266487028
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.164771457681
+    w: 0.986331773154
+---
+header: 
+  seq: 1894
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.27054142146
+    y: -1.11410780879
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.163423906089
+    w: 0.986555942113
+---
+header: 
+  seq: 1895
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.27054142146
+    y: -1.11410780879
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.163423906089
+    w: 0.986555942113
+---
+header: 
+  seq: 1896
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.27054142146
+    y: -1.11410780879
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.163423906089
+    w: 0.986555942113
+---
+header: 
+  seq: 1897
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.27054142146
+    y: -1.11410780879
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.163423906089
+    w: 0.986555942113
+---
+header: 
+  seq: 1898
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.27054142146
+    y: -1.11410780879
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.163423906089
+    w: 0.986555942113
+---
+header: 
+  seq: 1899
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.50711097212
+    y: -1.22885005632
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.167713911927
+    w: 0.985835708293
+---
+header: 
+  seq: 1900
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.50711097212
+    y: -1.22885005632
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.167713911927
+    w: 0.985835708293
+---
+header: 
+  seq: 1901
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.50711097212
+    y: -1.22885005632
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.167713911927
+    w: 0.985835708293
+---
+header: 
+  seq: 1902
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.50711097212
+    y: -1.22885005632
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.167713911927
+    w: 0.985835708293
+---
+header: 
+  seq: 1903
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.50711097212
+    y: -1.22885005632
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.167713911927
+    w: 0.985835708293
+---
+header: 
+  seq: 1904
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.09753531964
+    y: -1.09111051139
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.168531297502
+    w: 0.985696303007
+---
+header: 
+  seq: 1905
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.09753531964
+    y: -1.09111051139
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.168531297502
+    w: 0.985696303007
+---
+header: 
+  seq: 1906
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.09753531964
+    y: -1.09111051139
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.168531297502
+    w: 0.985696303007
+---
+header: 
+  seq: 1907
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.09753531964
+    y: -1.09111051139
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.168531297502
+    w: 0.985696303007
+---
+header: 
+  seq: 1908
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.09753531964
+    y: -1.09111051139
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.168531297502
+    w: 0.985696303007
+---
+header: 
+  seq: 1909
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.90618115179
+    y: -0.920778341125
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.152813321992
+    w: 0.988255072652
+---
+header: 
+  seq: 1910
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.90618115179
+    y: -0.920778341125
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.152813321992
+    w: 0.988255072652
+---
+header: 
+  seq: 1911
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 2.90618115179
+    y: -0.920778341125
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.152813321992
+    w: 0.988255072652
+---
+header: 
+  seq: 1912
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.22109150451
+    y: -0.94102191348
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.141638978369
+    w: 0.989918380376
+---
+header: 
+  seq: 1913
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.22109150451
+    y: -0.94102191348
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.141638978369
+    w: 0.989918380376
+---
+header: 
+  seq: 1914
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.22109150451
+    y: -0.94102191348
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.141638978369
+    w: 0.989918380376
+---
+header: 
+  seq: 1915
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.22109150451
+    y: -0.94102191348
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.141638978369
+    w: 0.989918380376
+---
+header: 
+  seq: 1916
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.22109150451
+    y: -0.94102191348
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.141638978369
+    w: 0.989918380376
+---
+header: 
+  seq: 1917
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.22109150451
+    y: -0.94102191348
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.141638978369
+    w: 0.989918380376
+---
+header: 
+  seq: 1918
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.22109150451
+    y: -0.94102191348
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.141638978369
+    w: 0.989918380376
+---
+header: 
+  seq: 1919
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.63628478607
+    y: -1.10950439878
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.147533333023
+    w: 0.98905708412
+---
+header: 
+  seq: 1920
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.63628478607
+    y: -1.10950439878
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.147533333023
+    w: 0.98905708412
+---
+header: 
+  seq: 1921
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.63628478607
+    y: -1.10950439878
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.147533333023
+    w: 0.98905708412
+---
+header: 
+  seq: 1922
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.63628478607
+    y: -1.10950439878
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.147533333023
+    w: 0.98905708412
+---
+header: 
+  seq: 1923
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.63628478607
+    y: -1.10950439878
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.147533333023
+    w: 0.98905708412
+---
+header: 
+  seq: 1924
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.63628478607
+    y: -1.10950439878
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.147533333023
+    w: 0.98905708412
+---
+header: 
+  seq: 1925
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.94342580783
+    y: -1.65319563514
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.160666114835
+    w: 0.987008814319
+---
+header: 
+  seq: 1926
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.94342580783
+    y: -1.65319563514
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.160666114835
+    w: 0.987008814319
+---
+header: 
+  seq: 1927
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.94342580783
+    y: -1.65319563514
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.160666114835
+    w: 0.987008814319
+---
+header: 
+  seq: 1928
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.94342580783
+    y: -1.65319563514
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.160666114835
+    w: 0.987008814319
+---
+header: 
+  seq: 1929
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.717160516
+    y: -1.58285214007
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.161166966888
+    w: 0.986927154751
+---
+header: 
+  seq: 1930
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.717160516
+    y: -1.58285214007
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.161166966888
+    w: 0.986927154751
+---
+header: 
+  seq: 1931
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.717160516
+    y: -1.58285214007
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.161166966888
+    w: 0.986927154751
+---
+header: 
+  seq: 1932
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.717160516
+    y: -1.58285214007
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.161166966888
+    w: 0.986927154751
+---
+header: 
+  seq: 1933
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 4.717160516
+    y: -1.58285214007
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.161166966888
+    w: 0.986927154751
+---
+header: 
+  seq: 1934
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.2131695522
+    y: -1.05563476183
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.158046901915
+    w: 0.987431606135
+---
+header: 
+  seq: 1935
+  stamp: 
+    secs: 0
+    nsecs:         0
+  frame_id: /robot_frame
+pose: 
+  position: 
+    x: 3.2131695522
+    y: -1.05563476183
+    z: 0.0
+  orientation: 
+    x: 0.0
+    y: 0.0
+    z: -0.158046901915
+    w: 0.987431606135
+---
